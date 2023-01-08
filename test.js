@@ -1,7 +1,9 @@
 console.log(hello);
 
-var obj = {
+let obj = {
   key: "value",
 };
 
 console.log(obj);
+
+console.log("ok???");
